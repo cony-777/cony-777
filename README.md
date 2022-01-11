@@ -15,7 +15,7 @@ I am currently a student pursuing BTech in Mechanical Engineering and I aspire t
     - EEIR11 Basics of Electrical and Electronics Engineering
     - MEIR12 Engineering Graphics
 
-- #### 📊 Stats
+- #### 📊 Stats:
 
     ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cony-777)  
     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cony-777&show_icons=true)  
@@ -25,7 +25,14 @@ I am currently a student pursuing BTech in Mechanical Engineering and I aspire t
 
 
 
-- #### My Socials:
+- #### Socials:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cony-777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antony-raja-arulsekar-42a24a1b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___antony7___/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12473302)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/oysau4x7cP8I2c1j8EMiAw)  
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/antony-raja-arulsekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony raja arulsekar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12473302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12473302" height="30" width="40" /></a>
+<a href="https://instagram.com/___antony7___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___antony7___" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCoysau4x7cP8I2c1j8EMiAw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="antony" height="30" width="40" /></a>
+</p>
+
+
