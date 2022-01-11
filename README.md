@@ -5,17 +5,17 @@
 
 I am currently a student pursuing BTech in Mechanical Engineering and I aspire to be an Aerospace/Aeronautical Engineer. 
 
-- #### 🖥 Skills: 
-    ##### Python | MATLAB | LTspice | AutoCAD
+- ### 🖥 Skills: 
+    #### Python | MATLAB | LTspice | AutoCAD
 
-- #### 📖  I’m currently learning:
-    ##### BTech Mechanical Engineering, National Institute of Technology, Tiruchirappalli
+- ### 📖  I’m currently learning:
+    #### BTech Mechanical Engineering, National Institute of Technology, Tiruchirappalli
 
     - MEIR15 Intro to Mechanical Engineering
     - EEIR11 Basics of Electrical and Electronics Engineering
     - MEIR12 Engineering Graphics
 
-- #### 📊 Stats:
+- ### 📊 Stats:
 
     ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cony-777)  
     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cony-777&show_icons=true)  
@@ -25,7 +25,7 @@ I am currently a student pursuing BTech in Mechanical Engineering and I aspire t
 
 
 
-- #### Socials:
+- ### Socials:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/antony-raja-arulsekar-42a24a1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony raja arulsekar" height="30" width="40" /></a>
