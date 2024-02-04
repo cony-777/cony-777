@@ -6,14 +6,14 @@
 I am currently a student pursuing BTech in Mechanical Engineering and I aspire to be an Aerospace/Aeronautical Engineer. 
 
 - #### 🖥 Skills: 
-    ##### Python | MATLAB | LTspice | AutoCAD
+    ##### Ansys - Fluent | SolidWorks | AutoCAD | XFLR5 | Python
 
 - #### 📖  I’m currently learning:
     ##### BTech Mechanical Engineering, National Institute of Technology, Tiruchirappalli
 
-    - MEIR15 Intro to Mechanical Engineering
-    - EEIR11 Basics of Electrical and Electronics Engineering
-    - MEIR12 Engineering Graphics
+    - Computational Fluid Dynamics
+    - Compressible Flow and Jet Propulsion
+    - Fundamentals of Theoretical and Experimental Aerodynamics
 
 - #### 📊 Stats:
 
